@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a sentiment analysis of yooutube vedio based on the comments that people post under the vedio like good ,bad.by using `textblob` and `youtube-api`
+This project is a sentiment analysis of youtube video based on the comments that people post under the video like good ,bad  by using `textblob` and `youtube-api`
 
 ## Working
 
